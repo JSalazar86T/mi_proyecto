@@ -7,3 +7,5 @@ Naranja
 
 Morado
 Rosa
+Cyan
+
